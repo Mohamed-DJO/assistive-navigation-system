@@ -571,11 +571,6 @@ assets/
 
 ![Navigation Demo](images/Capture%20d%27%C3%A9cran%202026-06-08%20214556.png)
 
-You can also add a short demo video:
-
-```markdown
-[Watch the demo video](images/WhatsApp%20Video%202026-06-01%20at%204.13.16%20PM_detected_20260601_192239_with_audio.mp4)
-```
 
 ---
 
